@@ -8,7 +8,7 @@ android.Plugin.androidBuild
 name := "hello-world"
 
 // pick the version of scala you want to use
-scalaVersion := "2.10.2"
+scalaVersion := "2.10.3"
 
 // scala 2.10 flag for feature warnings
 scalacOptions in Compile += "-feature"
