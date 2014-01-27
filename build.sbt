@@ -14,7 +14,7 @@ scalaVersion := "2.10.2"
 scalacOptions in Compile += "-feature"
 
 // for non-ant-based projects, you'll need this for the specific build target
-platformTarget in Android := "android-18"
+platformTarget in Android := "android-19"
 
 // call install and run without having to prefix with android
 run <<= run in Android

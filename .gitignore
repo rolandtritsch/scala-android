@@ -3,3 +3,8 @@ gen/
 target/
 project/boot/
 project/plugins/project/
+
+.ensime
+
+local.properties
+project.properties
