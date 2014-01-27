@@ -6,6 +6,6 @@ import android.os.Bundle
 class HelloActivity extends Activity {
   override def onCreate(savedInstanceState: Bundle): Unit = {
     super.onCreate(savedInstanceState)
-    setContentView(R.layout.main)
+    setContentView(R.layout.hello)
   }
 }
